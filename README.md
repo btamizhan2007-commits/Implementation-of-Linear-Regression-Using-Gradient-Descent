@@ -1,6 +1,6 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-# SINDHU PRIYA REDDY
-# 212224040319
+# TAMIZHAN B
+# 212225230283
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
@@ -23,8 +23,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:SINDHU PRIYA REDDY 
-RegisterNumber: 212224040319 
+Developed by: TAMIZHAN B
+RegisterNumber:  212225230283
 */
 
 import numpy as np
@@ -71,10 +71,7 @@ plt.show()
 ```
 
 ## Output:
-
-<img width="877" height="614" alt="image" src="https://github.com/user-attachments/assets/1ee08fff-bd3b-404a-aea7-1698b17f6483" />
-
-
+<img width="1092" height="770" alt="image" src="https://github.com/user-attachments/assets/ed0f102a-0c16-413f-9e7c-e62fed002d85" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
